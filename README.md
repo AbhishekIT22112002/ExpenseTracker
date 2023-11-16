@@ -1,3 +1,3 @@
 # ExpenseTracker
 
-https://vercel.com/abhishek-anands-projects/expense-tracker
+https://expense-tracker-delta-wine.vercel.app/
